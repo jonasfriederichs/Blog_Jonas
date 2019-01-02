@@ -1,0 +1,30 @@
+---
+title: "Deutsch und Englisch"
+description: |
+  Meine Sprachkenntnisse heute und bald (?)
+author:
+  - name: Jonas Friederichs
+date: 01-02-2019
+output:
+  radix::radix_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Meine Englischkenntnisse
+
+Ich hatte inzwischen 7 Jahre Englisch in der Schule, da ich seit der ersten Klasse Unterricht in Englisch habe. Ich kann es aber trotzdem nicht so gut.
+
+Auch daher würde ich gerne in die USA reisen, um in einem entsprechenden Zeitraum, meine Englisch-Kenntnisse zu verbessern.
+
+
+# My knowledge of the English language
+```{r, eval=FALSE}
+library(deeplr)
+toEnglish2("Ich hatte inzwischen 7 Jahre Englisch in der Schule, da ich seit der ersten Klasse Unterricht in Englisch habe. Ich kann es aber trotzdem nicht so gut. Auch daher würde ich gerne in die USA reisen, um in einem entsprechenden Zeitraum, meine Englisch-Kenntnisse zu verbessern.")
+```
+
+

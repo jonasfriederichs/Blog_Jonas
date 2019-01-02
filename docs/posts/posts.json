@@ -1,0 +1,62 @@
+[
+  {
+    "path": "posts/2019-01-02-deutsch-und-englisch/",
+    "title": "Deutsch und Englisch",
+    "description": "Meine Sprachkenntnisse heute und bald (?)",
+    "author": [
+      {
+        "name": "Jonas Friederichs",
+        "url": {}
+      }
+    ],
+    "date": "2019-01-02",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-01-02T20:56:57+01:00"
+  },
+  {
+    "path": "posts/2019-01-02-mein-erster-post/",
+    "title": "Mein erster Post",
+    "description": "Aller Anfang ist hoffnungsvoll.",
+    "author": [
+      {
+        "name": "Jonas & Hendrik Friederichs",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-01-02",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-01-02T09:48:44+01:00"
+  },
+  {
+    "path": "posts/2019-01-02-meine-gastfamilie/",
+    "title": "Meine Gastfamilie",
+    "description": "Ich habe eine Gastfamilie bekommen: die Muellers",
+    "author": [
+      {
+        "name": "Jonas Friederichs",
+        "url": {}
+      }
+    ],
+    "date": "2019-01-02",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-01-02T09:48:44+01:00"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Jonas' Blog",
+    "description": "Welcome to our new blog, Jonas' Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-01-02",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-01-02T09:48:44+01:00"
+  }
+]

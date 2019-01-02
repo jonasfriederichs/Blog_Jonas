@@ -6,4 +6,10 @@ description: |
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+
+# Neuer Post:
+# library(radix)
+# create_post("The Sharpe Ratio")
+
+
 ```

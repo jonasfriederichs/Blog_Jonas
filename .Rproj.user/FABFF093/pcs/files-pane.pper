@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/GitHub/Blog_Jonas/posts",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
