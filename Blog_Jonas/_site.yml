@@ -1,0 +1,14 @@
+name: "Blog_Jonas"
+title: "Jonas' Blog"
+description: |
+  Jonas' Blog
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Hintergrund"
+      href: about.html
+    - icon: fa fa-rss
+      href: index.xml
+output: radix::radix_article

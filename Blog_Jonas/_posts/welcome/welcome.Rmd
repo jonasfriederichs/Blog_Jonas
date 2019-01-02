@@ -1,0 +1,24 @@
+---
+title: "Welcome to Jonas' Blog"
+description: |
+  Welcome to my new blog, Jonas' Blog. I hope you enjoy 
+  reading what I have to say!
+author:
+  - name: Jonas Friederichs 
+    url: https://github.com/jofrie
+date: 01-02-2019
+output:
+  radix::radix_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Radix at:
+# https://rstudio.github.io/radix/blog.html
+
+```
+
+
+

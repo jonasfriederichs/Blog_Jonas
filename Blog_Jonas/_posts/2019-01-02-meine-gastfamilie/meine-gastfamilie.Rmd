@@ -1,0 +1,30 @@
+---
+title: "Meine Gastfamilie"
+description: |
+  Ich habe eine Gastfamilie bekommen: die Muellers
+author:
+  - name: Jonas Friederichs
+date: 01-02-2019
+output:
+  radix::radix_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+# einfach so lassen
+
+# Umwandlung in Word-Datei über rmarkdown::render("/_posts/2019-01-02-meine-gastfamilie/meine-gastfamilie.Rmd", output_format = "word_document")
+```
+
+# Meine Gastfamilie
+Heute habe ich den Namen und ein paar weitere Informationen zu meiner Gastfamilie bekommen.
+
+## Der Vater meiner Gastfamilie
+
+## Die Mutter meiner Gastfamilie
+
+## Die Kinder
+
+
+
