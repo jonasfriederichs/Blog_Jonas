@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563116234499.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "148856665",
+    "id" : "95A5D029",
+    "lastKnownWriteTime" : 1563115481,
+    "last_content_update" : 1563115481,
+    "path" : "~/Library/Mobile Documents/com~apple~CloudDocs/Blog_Jonas/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
