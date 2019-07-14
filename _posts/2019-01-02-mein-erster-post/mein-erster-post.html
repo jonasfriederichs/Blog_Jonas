@@ -21,34 +21,35 @@
   <!--radix_placeholder_meta_tags-->
   <title>Mein erster Post</title>
   
-  <meta property="description" itemprop="description" content="Aller Anfang ist hoffnungsvoll.&#10;author:&#10;- name: Jonas &amp; Hendrik Friederichs&#10;  url: https://example.com/norajones"/>
+  <meta property="description" itemprop="description" content="Aller Anfang ist hoffnungsvoll."/>
   
   
   <!--  https://schema.org/Article -->
   <meta property="article:published" itemprop="datePublished" content="2019-01-02"/>
   <meta property="article:created" itemprop="dateCreated" content="2019-01-02"/>
+  <meta name="article:author" content="Jonas Friederichs"/>
   
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
   <meta property="og:title" content="Mein erster Post"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="Aller Anfang ist hoffnungsvoll.&#10;author:&#10;- name: Jonas &amp; Hendrik Friederichs&#10;  url: https://example.com/norajones"/>
+  <meta property="og:description" content="Aller Anfang ist hoffnungsvoll."/>
   <meta property="og:locale" content="en_US"/>
   
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
   <meta property="twitter:title" content="Mein erster Post"/>
-  <meta property="twitter:description" content="Aller Anfang ist hoffnungsvoll.&#10;author:&#10;- name: Jonas &amp; Hendrik Friederichs&#10;  url: https://example.com/norajones"/>
+  <meta property="twitter:description" content="Aller Anfang ist hoffnungsvoll."/>
   
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date","output","preview"]}},"value":[{"type":"character","attributes":{},"value":["Mein erster Post"]},{"type":"character","attributes":{},"value":["Aller Anfang ist hoffnungsvoll.\nauthor:\n- name: Jonas & Hendrik Friederichs\n  url: https://example.com/norajones\n"]},{"type":"character","attributes":{},"value":["01-02-2019"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["radix::radix_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]},{"type":"character","attributes":{},"value":["images/testbild.jpg"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output"]}},"value":[{"type":"character","attributes":{},"value":["Mein erster Post"]},{"type":"character","attributes":{},"value":["Aller Anfang ist hoffnungsvoll.\n"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","url"]}},"value":[{"type":"character","attributes":{},"value":["Jonas Friederichs"]},{"type":"character","attributes":{},"value":["https://jonasfriederichs.github.io/Blog_Jonas/"]}]}]},{"type":"character","attributes":{},"value":["01-02-2019"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["radix::radix_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"character","attributes":{},"value":["mein-erster-post_files/bowser-1.9.3/bowser.min.js","mein-erster-post_files/distill-2.2.21/template.v2.js","mein-erster-post_files/jquery-1.11.3/jquery.min.js","mein-erster-post_files/webcomponents-2.0.0/webcomponents.js"]}
+  {"type":"character","attributes":{},"value":["images/testbild.jpg","images/testbild.png","mein-erster-post_files/bowser-1.9.3/bowser.min.js","mein-erster-post_files/distill-2.2.21/template.v2.js","mein-erster-post_files/jquery-1.11.3/jquery.min.js","mein-erster-post_files/webcomponents-2.0.0/webcomponents.js","testbild.png"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
   <!--/radix_placeholder_navigation_in_header-->
@@ -941,7 +942,7 @@
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Mein erster Post","description":"Aller Anfang ist hoffnungsvoll.\nauthor:\n- name: Jonas & Hendrik Friederichs\n  url: https://example.com/norajones","authors":[],"publishedDate":"2019-01-02T00:00:00.000+01:00"}
+{"title":"Mein erster Post","description":"Aller Anfang ist hoffnungsvoll.","authors":[{"author":"Jonas Friederichs","authorURL":"https://jonasfriederichs.github.io/Blog_Jonas/","affiliation":"&nbsp;","affiliationURL":"#"}],"publishedDate":"2019-01-02T00:00:00.000+01:00","citationText":"Friederichs, 2019"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -952,19 +953,32 @@
 
 <div class="d-title">
 <h1>Mein erster Post</h1>
-<p><p>Aller Anfang ist hoffnungsvoll. author: - name: Jonas &amp; Hendrik Friederichs url: <a href="https://example.com/norajones" class="uri">https://example.com/norajones</a></p></p>
+<p><p>Aller Anfang ist hoffnungsvoll.</p></p>
 </div>
 
+<div class="d-byline">
+  Jonas Friederichs <a href="https://jonasfriederichs.github.io/Blog_Jonas/" class="uri">https://jonasfriederichs.github.io/Blog_Jonas/</a> 
+  
+<br/>01-02-2019
+</div>
 
 <div class="d-article">
 <h1 id="mein-einstieg">Mein Einstieg</h1>
 <p>Hier wollte ich mal ausprobieren, wie es ist, einen Blog zu schreiben.</p>
 <h1 id="mein-usa-aufenthalt">Mein USA-Aufenthalt</h1>
 <p>Im Sommer 2019 geht es aller Voraussicht nach in die USA. Wohin? - das weiß ich noch nicht. Es wird also erstmal sehr spannend. Dementsprechend muss ich mein Englisch noch ein wenig verbessern. Was könnte also besser sein, als diesen Blog auch auf Englisch zu schreiben?</p>
+<h1 id="dies-ist-mein-erstes-bild-grins--">Dies ist mein erstes Bild (grins :-) )</h1>
+<div class="layout-chunk" data-layout="l-body">
+<p><img src="testbild.png" width="800" data-radix-preview=1 /></p>
+</div>
 <h1 id="my-start">My start</h1>
 <p>I would like to try writing a blog</p>
 <h1 id="my-exchange-to-the-us">My exchange to the US</h1>
 <p>In the summer of 2019, the USA is expected to be the destination. Where to? - I don’t know yet. So it will be very exciting for now. I have to improve my English a little. So what could be better than writing this blog in English?</p>
+<h1 id="my-first-picture-smile">My first picture (smile!)</h1>
+<div class="layout-chunk" data-layout="l-body">
+<p><img src="images/testbild.png" width="800" /></p>
+</div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>

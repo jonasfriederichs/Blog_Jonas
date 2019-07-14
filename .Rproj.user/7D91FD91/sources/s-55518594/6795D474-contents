@@ -2,14 +2,15 @@
 title: "Mein erster Post"
 description: |
   Aller Anfang ist hoffnungsvoll.
-  author:
-  - name: Jonas & Hendrik Friederichs
-    url: https://example.com/norajones
+  
+author:
+  - name: Jonas Friederichs
+    url: https://jonasfriederichs.github.io/Blog_Jonas/
 date: 01-02-2019
 output:
   radix::radix_article:
     self_contained: false
-preview: images/testbild.jpg
+    
 ---
 
 ```{r setup, include=FALSE}
@@ -25,6 +26,14 @@ Hier wollte ich mal ausprobieren, wie es ist, einen Blog zu schreiben.
 Im Sommer 2019 geht es aller Voraussicht nach in die USA. Wohin? - das weiß ich noch nicht. Es wird also erstmal sehr spannend.
 Dementsprechend muss ich mein Englisch noch ein wenig verbessern. Was könnte also besser sein, als diesen Blog auch auf Englisch zu schreiben?
 
+# Dies ist mein erstes Bild (grins :-) )
+
+```{r, preview = TRUE}
+knitr::include_graphics("testbild.png")
+```
+
+
+
 # My start
 
 I would like to try writing a blog
@@ -33,4 +42,11 @@ I would like to try writing a blog
 
 In the summer of 2019, the USA is expected to be the destination. Where to? - I don't know yet. So it will be very exciting for now.
 I have to improve my English a little. So what could be better than writing this blog in English?
+
+# My first picture (smile!)
+
+```{r}
+knitr::include_graphics("images/testbild.png")
+```
+
 
