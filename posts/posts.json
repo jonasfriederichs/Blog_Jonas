@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-01-02-meine-gastfamilie/",
+    "title": "Meine Gastfamilie",
+    "description": "Ich habe eine Gastfamilie bekommen",
+    "author": [
+      {
+        "name": "Jonas Friederichs",
+        "url": {}
+      }
+    ],
+    "date": "2019-05-24",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-07-15T15:16:32+02:00"
+  },
+  {
     "path": "posts/2019-01-02-deutsch-und-englisch/",
     "title": "Deutsch und Englisch",
     "description": "Meine Sprachkenntnisse heute und bald (?)",
@@ -12,7 +27,7 @@
     "date": "2019-01-02",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-01-02T20:56:57+01:00"
+    "last_modified": "2019-07-14T16:44:41+02:00"
   },
   {
     "path": "posts/2019-01-02-mein-erster-post/",
@@ -20,29 +35,14 @@
     "description": "Aller Anfang ist hoffnungsvoll.",
     "author": [
       {
-        "name": "Jonas & Hendrik Friederichs",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2019-01-02",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-01-02T09:48:44+01:00"
-  },
-  {
-    "path": "posts/2019-01-02-meine-gastfamilie/",
-    "title": "Meine Gastfamilie",
-    "description": "Ich habe eine Gastfamilie bekommen: die Muellers",
-    "author": [
-      {
         "name": "Jonas Friederichs",
-        "url": {}
+        "url": "https://jonasfriederichs.github.io/Blog_Jonas/"
       }
     ],
     "date": "2019-01-02",
     "categories": [],
-    "preview": {},
-    "last_modified": "2019-01-02T09:48:44+01:00"
+    "preview": "posts/2019-01-02-mein-erster-post/testbild.png",
+    "last_modified": "2019-07-14T17:28:02+02:00"
   },
   {
     "path": "posts/welcome/",
@@ -57,6 +57,6 @@
     "date": "2019-01-02",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-01-02T09:48:44+01:00"
+    "last_modified": "2019-07-14T16:44:41+02:00"
   }
 ]
