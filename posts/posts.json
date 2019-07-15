@@ -30,6 +30,23 @@
     "last_modified": "2019-07-14T16:44:41+02:00"
   },
   {
+    "path": "posts/2019-01-02-mein-erster-post/",
+    "title": "Mein erster Post",
+    "description": "Aller Anfang ist hoffnungsvoll.",
+    "author": [
+      {
+        "name": "Jonas Friederichs",
+        "url": "https://jonasfriederichs.github.io/Blog_Jonas/"
+      }
+    ],
+    "date": "2019-01-02",
+    "categories": [],
+    "preview": "posts/2019-01-02-mein-erster-post/testbild.png",
+    "last_modified": "2019-07-15T21:06:56+02:00",
+    "preview_width": 1600,
+    "preview_height": 777
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Jonas' Blog",
     "description": "Welcome to our new blog, Jonas' Blog. We hope you enjoy \nreading what we have to say!",
@@ -43,20 +60,5 @@
     "categories": [],
     "preview": {},
     "last_modified": "2019-07-14T16:44:41+02:00"
-  },
-  {
-    "path": "posts/2019-01-02-mein-erster-post/",
-    "title": "Mein erster Post",
-    "description": "Aller Anfang ist hoffnungsvoll.",
-    "author": [
-      {
-        "name": "Jonas Friederichs",
-        "url": "https://jonasfriederichs.github.io/Blog_Jonas/"
-      }
-    ],
-    "date": "2019-01-02",
-    "categories": [],
-    "preview": "posts/2019-01-02-mein-erster-post/testbild.png",
-    "last_modified": "2019-07-15T21:06:56+02:00"
   }
 ]

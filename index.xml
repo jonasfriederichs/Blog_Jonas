@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Jonas' Blog</title>
+    <link>https://jonasfriederichs.github.io/Blog_Jonas</link>
+    <atom:link href="https://jonasfriederichs.github.io/Blog_Jonas/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Jonas' Blog
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Fr, 24 Mai 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Meine Gastfamilie</title>
+      <dc:creator>Jonas Friederichs</dc:creator>
+      <link>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-01-02-meine-gastfamilie</link>
+      <description>Ich habe eine Gastfamilie bekommen</description>
+      <guid>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-01-02-meine-gastfamilie</guid>
+      <pubDate>Fr, 24 Mai 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deutsch und Englisch</title>
+      <dc:creator>Jonas Friederichs</dc:creator>
+      <link>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-01-02-deutsch-und-englisch</link>
+      <description>Meine Sprachkenntnisse heute und bald (?)</description>
+      <guid>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-01-02-deutsch-und-englisch</guid>
+      <pubDate>Mi, 02 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mein erster Post</title>
+      <dc:creator>Jonas Friederichs</dc:creator>
+      <link>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-01-02-mein-erster-post</link>
+      <description>Aller Anfang ist hoffnungsvoll.</description>
+      <guid>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-01-02-mein-erster-post</guid>
+      <pubDate>Mi, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <media:content url="https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-01-02-mein-erster-post/testbild.png" medium="image" type="image/png" width="1600" height="777"/>
+    </item>
+    <item>
+      <title>Welcome to Jonas' Blog</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>https://jonasfriederichs.github.io/Blog_Jonas/posts/welcome</link>
+      <description>Welcome to our new blog, Jonas' Blog. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://jonasfriederichs.github.io/Blog_Jonas/posts/welcome</guid>
+      <pubDate>Mi, 02 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
+  <url>
+    <loc>https://jonasfriederichs.github.io/Blog_Jonas/about.html</loc>
+    <lastmod>2019-07-15T21:03:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://jonasfriederichs.github.io/Blog_Jonas/Anleitung.html</loc>
+    <lastmod>2019-07-15T15:11:21+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://jonasfriederichs.github.io/Blog_Jonas/</loc>
+    <lastmod>2019-07-14T16:44:41+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-01-02-meine-gastfamilie/</loc>
+    <lastmod>2019-07-15T15:16:32+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-01-02-deutsch-und-englisch/</loc>
+    <lastmod>2019-07-14T16:44:41+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-01-02-mein-erster-post/</loc>
+    <lastmod>2019-07-15T21:06:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://jonasfriederichs.github.io/Blog_Jonas/posts/welcome/</loc>
+    <lastmod>2019-07-14T16:44:41+02:00</lastmod>
+  </url>
+</urlset>
