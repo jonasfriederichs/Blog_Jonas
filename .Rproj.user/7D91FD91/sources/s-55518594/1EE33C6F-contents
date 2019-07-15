@@ -1,0 +1,21 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+so legt man in der Console einen neuen Post an:
+
+distill::create_post("Name des Posts")
+
+## Including Plots
+
+So fügt man ein Bild ein inclusive Preview:
+
+
+```{r, preview = TRUE}
+knitr::include_graphics("testbild.png")
+```
