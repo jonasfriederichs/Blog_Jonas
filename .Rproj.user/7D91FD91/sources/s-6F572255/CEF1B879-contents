@@ -28,7 +28,7 @@ Dementsprechend muss ich mein Englisch noch ein wenig verbessern. Was könnte al
 
 # Dies ist mein erstes Bild (grins :-) )
 
-```{r, preview = TRUE}
+```{r, preview = TRUE, fig.cap= "Quelle: Privat; Ein Testbild"}
 knitr::include_graphics("testbild.png")
 ```
 
@@ -45,7 +45,7 @@ I have to improve my English a little. So what could be better than writing this
 
 # My first picture (smile!)
 
-```{r}
+```{r, fig.cap= "Source: private; A test picture"}
 knitr::include_graphics("images/testbild.png")
 ```
 
