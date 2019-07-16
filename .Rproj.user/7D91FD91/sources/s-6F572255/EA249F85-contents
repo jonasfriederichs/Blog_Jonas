@@ -3,11 +3,7 @@ title: "Jonas' Blog"
 description: |
   Jonas' Blog
 output_dir: "."
-base_url: https://jonasfriederichs.github.io/Blog_Jonas/
-collections:
-  posts:
-    share: [twitter, facebook]
-    citations: false
+base_url: https://jonasfriederichs.github.io/Blog_Jonas
 navbar:
   right:
     - icon: fa fa-book
@@ -16,6 +12,4 @@ navbar:
       href: about.html
     - icon: fa fa-rss
       href: index.xml
-      
-
 output: distill::distill_article

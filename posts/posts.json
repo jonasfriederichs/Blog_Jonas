@@ -10,9 +10,12 @@
       }
     ],
     "date": "2019-05-24",
-    "categories": [],
+    "categories": [
+      "deutsch",
+      "Vor dem Auslandsjahr/Before the exchange year"
+    ],
     "preview": {},
-    "last_modified": "2019-07-15T15:16:32+02:00"
+    "last_modified": "2019-07-16T16:04:41+02:00"
   },
   {
     "path": "posts/2019-01-02-deutsch-und-englisch/",
@@ -40,9 +43,12 @@
       }
     ],
     "date": "2019-01-02",
-    "categories": [],
+    "categories": [
+      "deutsch",
+      "English"
+    ],
     "preview": "posts/2019-01-02-mein-erster-post/testbild.png",
-    "last_modified": "2019-07-15T21:06:56+02:00",
+    "last_modified": "2019-07-16T16:00:43+02:00",
     "preview_width": 1600,
     "preview_height": 777
   },

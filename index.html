@@ -39,7 +39,7 @@
   <!--radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","site","listing"]}},"value":[{"type":"character","attributes":{},"value":["Jonas' Blog"]},{"type":"character","attributes":{},"value":["radix::radix_website"]},{"type":"character","attributes":{},"value":["posts"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","site","listing"]}},"value":[{"type":"character","attributes":{},"value":["Jonas' Blog"]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"character","attributes":{},"value":["posts"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -1282,9 +1282,11 @@
 </div>
 <div class="nav-right">
 <a href="index.html">
-<i class="fa fa-home"></i>
+<i class="fa fa-book"></i>
 </a>
-<a href="about.html">Hintergrund</a>
+<a href="about.html">
+<i class="fa fa-info"></i>
+</a>
 <a href="index.xml">
 <i class="fa fa-rss"></i>
 </a>
@@ -1612,11 +1614,11 @@ function init_posts_list() {
 
 
 
-<div class="posts-container posts-apply-limit l-page">
+<div class="posts-container posts-with-sidebar posts-apply-limit l-screen-inset">
 <div class="posts-list">
 <h1 class="posts-list-caption">Jonas' Blog</h1>
 <a href="posts/2019-01-02-meine-gastfamilie/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<script class="post-metadata" type="text/json">{"categories":["deutsch","Vor dem Auslandsjahr/Before the exchange year"]}</script>
 <div class="metadata">
 <div class="publishedDate">May 24, 2019</div>
 </div>
@@ -1642,7 +1644,7 @@ function init_posts_list() {
 </div>
 </a>
 <a href="posts/2019-01-02-mein-erster-post/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<script class="post-metadata" type="text/json">{"categories":["deutsch","English"]}</script>
 <div class="metadata">
 <div class="publishedDate">Jan. 2, 2019</div>
 </div>
@@ -1668,6 +1670,25 @@ function init_posts_list() {
 reading what we have to say!</p>
 </div>
 </a>
+</div>
+<div class="posts-sidebar">
+<div class="sidebar-section categories">
+<h3>Categories</h3>
+<ul>
+<li>
+<a href="#deutsch">deutsch</a>
+<span class="category-count">(2)</span>
+</li>
+<li>
+<a href="#English">English</a>
+<span class="category-count">(1)</span>
+</li>
+<li>
+<a href="#Vor_dem_Auslandsjahr/Before_the_exchange_year">Vor dem Auslandsjahr/Before the exchange year</a>
+<span class="category-count">(1)</span>
+</li>
+</ul>
+</div>
 </div>
 <div class="posts-more">
 <a href="#">More articles &raquo;</a>
@@ -1697,6 +1718,10 @@ reading what we have to say!</p>
 <div class="appendix-bottom"></div>
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
+<div class="distill-site-nav distill-site-footer">
+<p>© Copyright 2019 Jonas Friederichs</p>
+<p><a href="Impressum.html">Impressum</a></p>
+</div>
 <!--/radix_placeholder_navigation_after_body-->
 
 </body>
