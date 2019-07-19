@@ -1,0 +1,21 @@
+---
+title: "Und wieder Bewerbungen..."
+description: |
+  An application again...
+author:
+  - name: Wolf Jonas Friederichs
+    url: {}
+date: 07-19-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Die Bewerbung für Share! und die Gastfamilie
+
+Nun, als ich mich schließlich angemeldet habe, begann der Papierkrieg erst richtig...
+

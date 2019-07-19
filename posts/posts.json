@@ -1,70 +1,34 @@
 [
   {
-    "path": "posts/2019-01-02-meine-gastfamilie/",
-    "title": "Meine Gastfamilie",
-    "description": "Ich habe eine Gastfamilie bekommen",
+    "path": "posts/2019-07-19-bewerbung2/",
+    "title": "Und wieder Bewerbungen...",
+    "description": "An application again...",
     "author": [
       {
-        "name": "Jonas Friederichs",
+        "name": "Wolf Jonas Friederichs",
         "url": {}
       }
     ],
-    "date": "2019-05-24",
-    "categories": [
-      "deutsch",
-      "Vor dem Auslandsjahr/Before the exchange year"
-    ],
+    "date": "2019-07-19",
+    "categories": [],
     "preview": {},
-    "last_modified": "2019-07-16T16:04:41+02:00"
+    "last_modified": "2019-07-19T14:56:04+02:00"
   },
   {
-    "path": "posts/2019-01-02-deutsch-und-englisch/",
-    "title": "Deutsch und Englisch",
-    "description": "Meine Sprachkenntnisse heute und bald (?)",
+    "path": "posts/2019-07-19-erste-schritte/",
+    "title": "Erste Schritte zum Schulhalbjahr in den USA",
+    "description": "First steps to the exchange year in the US",
     "author": [
       {
-        "name": "Jonas Friederichs",
+        "name": "Wolf Jonas Friederichs",
         "url": {}
       }
     ],
-    "date": "2019-01-02",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-07-14T16:44:41+02:00"
-  },
-  {
-    "path": "posts/2019-01-02-mein-erster-post/",
-    "title": "Mein erster Post",
-    "description": "Aller Anfang ist hoffnungsvoll.",
-    "author": [
-      {
-        "name": "Jonas Friederichs",
-        "url": "https://jonasfriederichs.github.io/Blog_Jonas/"
-      }
-    ],
-    "date": "2019-01-02",
+    "date": "2018-12-19",
     "categories": [
-      "deutsch",
-      "English"
+      "Vor dem Austauschjahr/Before the exchange year"
     ],
-    "preview": "posts/2019-01-02-mein-erster-post/testbild.png",
-    "last_modified": "2019-07-16T16:00:43+02:00",
-    "preview_width": 1600,
-    "preview_height": 777
-  },
-  {
-    "path": "posts/welcome/",
-    "title": "Welcome to Jonas' Blog",
-    "description": "Welcome to our new blog, Jonas' Blog. We hope you enjoy \nreading what we have to say!",
-    "author": [
-      {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2019-01-02",
-    "categories": [],
     "preview": {},
-    "last_modified": "2019-07-14T16:44:41+02:00"
+    "last_modified": "2019-07-19T14:34:48+02:00"
   }
 ]
