@@ -1633,9 +1633,11 @@ function init_posts_list() {
 <a href="posts/2019-07-19-erste-schritte/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":["Vor dem Austauschjahr/Before the exchange year"]}</script>
 <div class="metadata">
-<div class="publishedDate">Dec. 18, 2018</div>
+<div class="publishedDate">Dec. 19, 2018</div>
 </div>
-<div class="thumbnail"></div>
+<div class="thumbnail">
+<img/>
+</div>
 <div class="description">
 <h2>Erste Schritte zum Schulhalbjahr in den USA</h2>
 <p>First steps to the exchange year in the US</p>

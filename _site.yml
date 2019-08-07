@@ -7,7 +7,7 @@ base_url: https://jonasfriederichs.github.io/Blog_Jonas/
 collections:
   posts:
     share: [twitter, facebook]
-    disqus: jonas-friederichs
+    disqus: Jonas-Friederichs
     citations: false
 navbar:
   right:
