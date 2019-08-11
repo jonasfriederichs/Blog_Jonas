@@ -7,7 +7,15 @@
     <description>Jonas' Blog
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Fr, 19 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mi, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Das Vorbereitungsseminar</title>
+      <dc:creator>Wolf Jonas Friederichs</dc:creator>
+      <link>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-08-vorbereitungsseminar</link>
+      <description>The preparing weekend</description>
+      <guid>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-08-vorbereitungsseminar</guid>
+      <pubDate>Mi, 07 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Und wieder Bewerbungen...</title>
       <dc:creator>Wolf Jonas Friederichs</dc:creator>
@@ -22,7 +30,7 @@
       <link>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-07-19-erste-schritte</link>
       <description>First steps to the exchange year in the US</description>
       <guid>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-07-19-erste-schritte</guid>
-      <pubDate>Di, 18 Dez 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mi, 19 Dez 2018 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

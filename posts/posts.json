@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-08-08-vorbereitungsseminar/",
+    "title": "Das Vorbereitungsseminar",
+    "description": "The preparing weekend",
+    "author": [
+      {
+        "name": "Wolf Jonas Friederichs",
+        "url": {}
+      }
+    ],
+    "date": "2019-08-08",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-08-08T19:23:49+02:00"
+  },
+  {
     "path": "posts/2019-07-19-bewerbung2/",
     "title": "Und wieder Bewerbungen...",
     "description": "An application again...",
@@ -12,7 +27,7 @@
     "date": "2019-07-19",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-08-06T18:04:02+02:00"
+    "last_modified": "2019-08-08T19:17:04+02:00"
   },
   {
     "path": "posts/2019-07-19-erste-schritte/",

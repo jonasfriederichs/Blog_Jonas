@@ -1,0 +1,20 @@
+---
+title: "Das Vorbereitungsseminar"
+description: |
+  The preparing weekend
+author:
+  - name: Wolf Jonas Friederichs
+    url: {}
+date: 08-08-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+Am 16. Mai 2019 bin ich dann nach Leutesdorf zum Vorbereitungsseminar gefahren. Schon im Zug bin ich schon weiteren Teilnehmern begegnet, insgesamt waren wir dann 9 Jungen und 21 Mädchen. Das Seminar ging über vier Tage, fing Donnerstag an und endete Sonntag. Es wurde von sieben Teamern begleitet, alle hatten sie wenige Jahre zuvor auch ein Auslandsjahr gemacht. Es wurden viele verschiedene Themen angesprochen, in immer wieder verschiedenen Methoden. Darunter war die High School und die Gastfamilie, aber auch der Umgang mit fremden Kulturen, Werte von Menschen und Grenzen, genauer gesagt die Bequemlichkeits- und die Persönlichkeitsgrenze. Wir haben dabei aber auch ab und zu in Kleingruppen gesprochen und auch eine kleine Talentshow am Samstag veranstaltet. Meiner Meinung nach eine sehr nette und interessante Vorbereitung.
+
+
+
