@@ -1,0 +1,19 @@
+---
+title: "Die ersten Tage und Erfahrungen in Milwaukee"
+description: |
+  The first days and experiences in Milwaukee
+author:
+  - name: Wolf Jonas Friederichs
+    url: {}
+date: 08-11-2019
+categories:
+  - Während des Austauschjahres/During the exchange year
+output:
+  distill::distill_article:
+    self_contained: false
+---
+Am Freitag, meinem ersten vollständigen Tag in den USA, war für mich schon viel neues dabei. Wir haben das erste mal die Schule besucht, in der wir dann auch die Stundenpläne sowie die Locker, also die Schließfächer bekommen haben. Am selben Tag sind wir dann noch zu Walmart gefahren, der bekannten riesigen Ladenkette. Meiner Meinung nach ist das Angebot in Deutschland nichts gegen das, was hier angeboten wird. Es gibt 10-Kilo-Reissäcke, meterweise Kühlregale voller Eis, und und und… Das einzige, was meiner Meinung nach in Deutschland größer ist: Wir haben eindeutig mehr Haribo-Gummibärchen! ;-) Am Samstag waren wir dann bei einem Picknick mit der Familie von Tony, meinem Gastvater im Jackson Park. Seine Mutter hat 13 Geschwister, dementsprechend war es dort ziemlich voll. Dort gab es reichlich zu essen, und wir haben dort auch Kickball gespielt, was im Grunde genommen dem Baseball entspricht, nur dass der Ball geschossen wird. Sprachlich merke ich nur, dass ich zwar schon einiges verstehe, wenn die Amerikaner langsam und deutlich sprechen, aber wenn sie dann schnell oder während sie essen sprechen, verstehe ich wenn überhaupt Bruchteile.
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

@@ -1,0 +1,20 @@
+---
+title: "Die letzten Tage in Deutschland"
+description: |
+  The last days in Germany
+author:
+  - name: Wolf Jonas Friederichs
+    url: {}
+date: 08-07-2019
+categories:
+  - Vor dem Austauschjahr/Before the exchange year
+output:
+  distill::distill_article:
+    self_contained: false
+---
+Nachdem meine Familie und ich bis zum 04.08. im Urlaub waren, hatte ich dann drei Tage in Deutschland Zeit , um meinen Koffer zu packen. Mein Plan war es, auf dem Hinflug nur einen Koffer mitzunehmen, um dann auf dem Rückflug das, was ich mir in den USA gekauft haben werde, auch mitnehmen zu können. Zuerst passte es überhaupt nicht. Mein Koffer, der schon so groß war, wie die Fluggesellschaften es maximal zulassen, war zu klein und zu schwer. Also musste ich dann einige schwere Dinge, wie zum Beispiel einen Bildband von Deutschland, der ungefähr zwei Kilo wog, in das Handgepäck und die Laptoptasche auslagern. Am Ende passte es so gerade eben, und mein Zeug war fertig.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

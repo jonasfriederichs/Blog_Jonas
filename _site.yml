@@ -11,7 +11,7 @@ collections:
     citations: false
 navbar:
   right:
-    - icon: fa fa-book
+    - text: "Blog"
       href: index.html
     - icon: fa fa-info
       href: about.html

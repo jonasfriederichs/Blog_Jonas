@@ -1,0 +1,22 @@
+---
+title: "Meine neue Gastfamile"
+description: |
+  My new host family
+author:
+  - name: Wolf Jonas Friederichs
+    url: {}
+date: 05-24-2019
+categories:
+  - Vor dem Austauschjahr/Before the exchange year
+output:
+  distill::distill_article:
+    self_contained: false
+---
+Nun habe ich meine Gastfamilie bekommen: Terasa und Tony Brown aus Milwaukee, 33 und 36 Jahre alt. Sie wohnen in einem 3-Bedroom-Haus am Rande der Stadt. Außerdem wird noch Francesca, eine 17-jährige Italienerin, in dem Haus wohnen. 
+Milwaukee ist eine Stadt mit 600.000 Einwohnern und liegt in Wisconsin am Lake Michigan. Damit liegt sie etwa 90 Meilen (140 km) nördlich von Chicago. Sie ist die größte Stadt in Wisconsin.
+Meine Schule wird die Milwaukee School of Languages sein. Sie ist eine Schule mit ca. 600 Schülern, hat den Schwerpunkt auf Sprachen gelegt und zu ihr gehen Schüler der Klassen 6-12. 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

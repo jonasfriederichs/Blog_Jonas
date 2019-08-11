@@ -1,5 +1,90 @@
 [
   {
+    "path": "posts/2019-08-11-erste-tage/",
+    "title": "Die ersten Tage und Erfahrungen in Milwaukee",
+    "description": "The first days and experiences in Milwaukee",
+    "author": [
+      {
+        "name": "Wolf Jonas Friederichs",
+        "url": {}
+      }
+    ],
+    "date": "2019-08-11",
+    "categories": [
+      "Während des Austauschjahres/During the exchange year"
+    ],
+    "preview": {},
+    "last_modified": "2019-08-11T16:48:18+02:00"
+  },
+  {
+    "path": "posts/2019-08-11-flug/",
+    "title": "Der Flug",
+    "description": "The flight",
+    "author": [
+      {
+        "name": "Wolf Jonas Friederichs",
+        "url": {}
+      }
+    ],
+    "date": "2019-08-08",
+    "categories": [
+      "Während des Austauschjahres/During the exchange year"
+    ],
+    "preview": {},
+    "last_modified": "2019-08-11T19:00:47+02:00"
+  },
+  {
+    "path": "posts/2019-08-11-letzte-tage/",
+    "title": "Die letzten Tage in Deutschland",
+    "description": "The last days in Germany",
+    "author": [
+      {
+        "name": "Wolf Jonas Friederichs",
+        "url": {}
+      }
+    ],
+    "date": "2019-08-07",
+    "categories": [
+      "Vor dem Austauschjahr/Before the exchange year"
+    ],
+    "preview": {},
+    "last_modified": "2019-08-11T16:42:53+02:00"
+  },
+  {
+    "path": "posts/2019-08-11-visum/",
+    "title": "Das Visum",
+    "description": "The visa.",
+    "author": [
+      {
+        "name": "Wolf Jonas Friederichs",
+        "url": {}
+      }
+    ],
+    "date": "2019-06-18",
+    "categories": [
+      "Vor dem Austauschjahr/Before the exchange year"
+    ],
+    "preview": {},
+    "last_modified": "2019-08-11T16:40:45+02:00"
+  },
+  {
+    "path": "posts/2019-08-11-gastfamilie/",
+    "title": "Meine neue Gastfamile",
+    "description": "My new host family",
+    "author": [
+      {
+        "name": "Wolf Jonas Friederichs",
+        "url": {}
+      }
+    ],
+    "date": "2019-05-24",
+    "categories": [
+      "Vor dem Austauschjahr/Before the exchange year"
+    ],
+    "preview": {},
+    "last_modified": "2019-08-11T16:38:28+02:00"
+  },
+  {
     "path": "posts/2019-08-08-vorbereitungsseminar/",
     "title": "Das Vorbereitungsseminar",
     "description": "The preparing weekend",
@@ -9,10 +94,12 @@
         "url": {}
       }
     ],
-    "date": "2019-08-08",
-    "categories": [],
+    "date": "2019-05-19",
+    "categories": [
+      "Vor dem Austauschjahr/Before the exchange year"
+    ],
     "preview": {},
-    "last_modified": "2019-08-08T19:23:49+02:00"
+    "last_modified": "2019-08-11T16:50:34+02:00"
   },
   {
     "path": "posts/2019-07-19-bewerbung2/",
@@ -24,10 +111,12 @@
         "url": {}
       }
     ],
-    "date": "2019-07-19",
-    "categories": [],
+    "date": "2019-03-07",
+    "categories": [
+      "Vor dem Austauschjahr/Before the exchange year"
+    ],
     "preview": {},
-    "last_modified": "2019-08-08T19:17:04+02:00"
+    "last_modified": "2019-08-11T16:51:41+02:00"
   },
   {
     "path": "posts/2019-07-19-erste-schritte/",
@@ -44,6 +133,6 @@
       "Vor dem Austauschjahr/Before the exchange year"
     ],
     "preview": {},
-    "last_modified": "2019-08-07T14:27:43+02:00"
+    "last_modified": "2019-08-11T16:33:49+02:00"
   }
 ]

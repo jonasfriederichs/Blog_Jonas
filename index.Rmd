@@ -3,6 +3,3 @@ title: "Jonas' Blog"
 site: distill::distill_website
 listing: posts
 ---
-```{r, fig.cap= "licensee: H. Friederichs"}
-knitr::include_graphics("Under_Construction_Builder.jpg")
-```

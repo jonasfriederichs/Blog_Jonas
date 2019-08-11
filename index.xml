@@ -7,14 +7,54 @@
     <description>Jonas' Blog
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Mi, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Die ersten Tage und Erfahrungen in Milwaukee</title>
+      <dc:creator>Wolf Jonas Friederichs</dc:creator>
+      <link>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-11-erste-tage</link>
+      <description>The first days and experiences in Milwaukee</description>
+      <guid>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-11-erste-tage</guid>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Der Flug</title>
+      <dc:creator>Wolf Jonas Friederichs</dc:creator>
+      <link>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-11-flug</link>
+      <description>The flight</description>
+      <guid>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-11-flug</guid>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Die letzten Tage in Deutschland</title>
+      <dc:creator>Wolf Jonas Friederichs</dc:creator>
+      <link>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-11-letzte-tage</link>
+      <description>The last days in Germany</description>
+      <guid>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-11-letzte-tage</guid>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Das Visum</title>
+      <dc:creator>Wolf Jonas Friederichs</dc:creator>
+      <link>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-11-visum</link>
+      <description>The visa.</description>
+      <guid>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-11-visum</guid>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meine neue Gastfamile</title>
+      <dc:creator>Wolf Jonas Friederichs</dc:creator>
+      <link>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-11-gastfamilie</link>
+      <description>My new host family</description>
+      <guid>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-11-gastfamilie</guid>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Das Vorbereitungsseminar</title>
       <dc:creator>Wolf Jonas Friederichs</dc:creator>
       <link>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-08-vorbereitungsseminar</link>
       <description>The preparing weekend</description>
       <guid>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-08-vorbereitungsseminar</guid>
-      <pubDate>Mi, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Und wieder Bewerbungen...</title>
@@ -22,7 +62,7 @@
       <link>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-07-19-bewerbung2</link>
       <description>An application again...</description>
       <guid>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-07-19-bewerbung2</guid>
-      <pubDate>Fr, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Erste Schritte zum Schulhalbjahr in den USA</title>
@@ -30,7 +70,7 @@
       <link>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-07-19-erste-schritte</link>
       <description>First steps to the exchange year in the US</description>
       <guid>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-07-19-erste-schritte</guid>
-      <pubDate>Mi, 19 Dez 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

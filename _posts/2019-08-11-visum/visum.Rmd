@@ -1,0 +1,21 @@
+---
+title: "Das Visum"
+description: |
+  The visa.
+author:
+  - name: Wolf Jonas Friederichs
+    url: {}
+date: 06-18-2019
+categories:
+  - Vor dem Austauschjahr/Before the exchange year
+output:
+  distill::distill_article:
+    self_contained: false
+---
+Anfang Juni habe ich dann die Unterlagen zum Beantragen des Visums bekommen. Dafür musste ich dann auf einer Internetseite der US-Botschaft ein Formular über mehrere Seiten ausfüllen, ein biometrisches Foto hochladen sowie mehrmals Gebühren für die Bearbeitung bezahlen. Anschließend konnte ich dann eine Termin auswählen, in einem der beiden US-Konsulate in Frankfurt und München oder in der Botschaft in Berlin. Ich habe mich aufgrund der Fahrzeit von meinem Wohnort aus für das Konsulat in Frankfurt entschieden. Am 18. Juni bin ich dann mit dem Zug nach Frankfurt gefahren, um das Visum persönlich zu beantragen. Ich durfte in das Konsulat selbst keine Gegenstände außer den benötigten Unterlagen mitbringen, und musste meinen Rucksack deswegen in einem Kiosk nahe des Konsulats hinterlegen. Dann konnte ich in das Gebäude hineingehen, bin durch die Sicherheitskontrolle und wurde dann zu einem anderen Gebäude auf dem Gelände geschickt. Dort ware viele Schalter, bei denen man erst zu einem Schalter musste, wo die Fingerabdrücke genommen wurden und dann zu einem weiteren Schalter, bei dem bei mir der Grund für den Aufenthalt und die Länge erfragt wurden. Danach haben die vom Konsulat dann meinen Reisepass behalten, und diesen habe ich dann wenige Tage später per Post zugeschickt bekommen. Bei mir hat das Prozedere im Konsulat weniger als eine halbe Stunde gedauert, wie ich aber später erfahren habe dauerte es bei anderen deutlich länger.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
