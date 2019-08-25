@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-08-24-erste-tage-schule/",
+    "title": "Die ersten Tage in der High School",
+    "description": "The first days in the High School",
+    "author": [
+      {
+        "name": "Wolf Jonas Friederichs",
+        "url": {}
+      }
+    ],
+    "date": "2019-08-24",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-08-24T23:53:36-05:00"
+  },
+  {
     "path": "posts/2019-08-11-erste-tage/",
     "title": "Die ersten Tage und Erfahrungen in Milwaukee",
     "description": "The first days and experiences in Milwaukee",
@@ -14,7 +29,7 @@
       "Während des Austauschjahres/During the exchange year"
     ],
     "preview": {},
-    "last_modified": "2019-08-11T16:48:18+02:00"
+    "last_modified": "2019-08-11T09:48:18-05:00"
   },
   {
     "path": "posts/2019-08-11-flug/",
@@ -30,8 +45,10 @@
     "categories": [
       "Während des Austauschjahres/During the exchange year"
     ],
-    "preview": {},
-    "last_modified": "2019-08-11T19:00:47+02:00"
+    "preview": "posts/2019-08-11-flug/flugzeug.png",
+    "last_modified": "2019-08-24T22:40:13-05:00",
+    "preview_width": 2448,
+    "preview_height": 2600
   },
   {
     "path": "posts/2019-08-11-letzte-tage/",
@@ -48,7 +65,7 @@
       "Vor dem Austauschjahr/Before the exchange year"
     ],
     "preview": {},
-    "last_modified": "2019-08-11T16:42:53+02:00"
+    "last_modified": "2019-08-11T09:42:53-05:00"
   },
   {
     "path": "posts/2019-08-11-visum/",
@@ -65,7 +82,7 @@
       "Vor dem Austauschjahr/Before the exchange year"
     ],
     "preview": {},
-    "last_modified": "2019-08-11T16:40:45+02:00"
+    "last_modified": "2019-08-11T09:40:45-05:00"
   },
   {
     "path": "posts/2019-08-11-gastfamilie/",
@@ -82,7 +99,7 @@
       "Vor dem Austauschjahr/Before the exchange year"
     ],
     "preview": {},
-    "last_modified": "2019-08-11T16:38:28+02:00"
+    "last_modified": "2019-08-11T09:38:28-05:00"
   },
   {
     "path": "posts/2019-08-08-vorbereitungsseminar/",
@@ -99,7 +116,7 @@
       "Vor dem Austauschjahr/Before the exchange year"
     ],
     "preview": {},
-    "last_modified": "2019-08-11T16:50:34+02:00"
+    "last_modified": "2019-08-24T22:41:21-05:00"
   },
   {
     "path": "posts/2019-07-19-bewerbung2/",
@@ -116,7 +133,7 @@
       "Vor dem Austauschjahr/Before the exchange year"
     ],
     "preview": {},
-    "last_modified": "2019-08-11T16:51:41+02:00"
+    "last_modified": "2019-08-11T09:51:41-05:00"
   },
   {
     "path": "posts/2019-07-19-erste-schritte/",
@@ -133,6 +150,6 @@
       "Vor dem Austauschjahr/Before the exchange year"
     ],
     "preview": {},
-    "last_modified": "2019-08-11T16:33:49+02:00"
+    "last_modified": "2019-08-24T13:16:31-05:00"
   }
 ]

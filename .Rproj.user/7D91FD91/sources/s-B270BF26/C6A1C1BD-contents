@@ -1,0 +1,23 @@
+---
+title: "Der Flug"
+description: |
+  The flight
+author:
+  - name: Wolf Jonas Friederichs
+    url: {}
+date: 08-08-2019
+categories:
+  - Während des Austauschjahres/During the exchange year
+output:
+  distill::distill_article:
+    self_contained: false
+---
+Am 08. August 2019 ging es dann los. Meine Familie und ich sind um halb drei in der Nacht nach Düsseldorf gefahren, wo dann um sechs Uhr mein erster Flieger nach Frankfurt losflog. Nachdem ich nach diesem kurzen Flug in Frankfurt angekommen bin, musste nach dann vier Stunden auf den Flieger nach Chicago warten. Dieser hatte dann auch noch fast eine Stunde Verspätung :-( . Dann waren wir aber schließlich in Chicago, wo wir dann durch die Grenzkontrolle und den Zoll durch mussten. Anschließend habe ich dann meinen Anschlussflug nach Milwaukee verpasst, für den ich dann allerdings eineinhalb Stunden später schon meinen Ersatzflug bekommen habe. Um halb neun bin ich dann in Milwaukee gelandet, wo ich dann auch den Rest meiner Gastfamilie kennengelernt habe. Wir sind noch beim Mexikaner vorbeigefahren, wo wir dann gegessen haben, und am Ende bin ich dann todmüde ins Bett gefallen.
+
+```{r, preview = TRUE, fig.cap= "Der Blick aus dem Flugzeug auf die Küste von Illinois am Lake Michigan; [Quelle: privat]"}
+knitr::include_graphics("flugzeug.png")
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

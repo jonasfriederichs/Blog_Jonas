@@ -7,7 +7,15 @@
     <description>Jonas' Blog
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Die ersten Tage in der High School</title>
+      <dc:creator>Wolf Jonas Friederichs</dc:creator>
+      <link>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-24-erste-tage-schule</link>
+      <description>The first days in the High School</description>
+      <guid>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-24-erste-tage-schule</guid>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Die ersten Tage und Erfahrungen in Milwaukee</title>
       <dc:creator>Wolf Jonas Friederichs</dc:creator>
@@ -23,6 +31,7 @@
       <description>The flight</description>
       <guid>https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-11-flug</guid>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      <media:content url="https://jonasfriederichs.github.io/Blog_Jonas/posts/2019-08-11-flug/flugzeug.png" medium="image" type="image/png" width="2448" height="2600"/>
     </item>
     <item>
       <title>Die letzten Tage in Deutschland</title>

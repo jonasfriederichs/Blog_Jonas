@@ -16,7 +16,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-Am 16. Mai 2019 bin ich dann nach Leutesdorf zum Vorbereitungsseminar gefahren. Schon im Zug bin ich schon weiteren Teilnehmern begegnet, insgesamt waren wir dann 9 Jungen und 21 Mädchen. Das Seminar ging über vier Tage, fing Donnerstag an und endete Sonntag. Es wurde von sieben Teamern begleitet, alle hatten sie wenige Jahre zuvor auch ein Auslandsjahr gemacht. Es wurden viele verschiedene Themen angesprochen, in immer wieder verschiedenen Methoden. Darunter war die High School und die Gastfamilie, aber auch der Umgang mit fremden Kulturen, Werte von Menschen und Grenzen, genauer gesagt die Bequemlichkeits- und die Persönlichkeitsgrenze. Wir haben dabei aber auch ab und zu in Kleingruppen gesprochen und auch eine kleine Talentshow am Samstag veranstaltet. Meiner Meinung nach eine sehr nette und interessante Vorbereitung.
+Am 16. Mai 2019 bin ich dann nach Leutesdorf zum Vorbereitungsseminar gefahren. Schon im Zug bin ich schon weiteren Teilnehmern begegnet, die auch zu dem Seminar fuhren. Insgesamt waren wir dann 9 Jungen und 20 Mädchen. Das Seminar ging über vier Tage, fing Donnerstag an und endete Sonntag. Es wurde von sieben Teamern begleitet, alle hatten sie wenige Jahre zuvor auch ein Auslandsjahr gemacht. Über die Inhalte des Seminars werde ich jetzt nichts schreiben, da wir gebeten wurden nichts über die Themen zu schreiben, um anderen Teilnehmern die Überraschung zu lassen. Es war aber sehr gut, sich mit anderen Leuten mit ähnlichen Problemen, Sorgen, aber auch der Vorfreude zu unterhalten, sich kennenzulernen und Erfahrungen und Sorgen auszutauschen. So haben wir auch über eine WhatsApp-Gruppe mit allen Teilnehmern weiterhin Kontakt gehalten und konnten uns so gegenseitig bei kleinen Fragen zum Beispiel zum Visum oder unseren Gastfamilien gegenseitig helfen. Am Anfang habe ich mir die Frage gestellt, warum wir vier Tage zu einem Seminar mussten, und habe mir auch ein paar Sorgen gemacht, diese vier Tage lang mit Leuten zu verbringen, die ich vorher noch nie gesehen hatte, am Ende war diese Sorge aber unberechtigt!
 
-
-
+```{r, preview = TRUE, fig.cap= "Meine Gruppe aus dem Vorbereitungsseminar; [Quelle: privat]"}
+knitr::include_graphics("dsc_6397.jpg")
+```

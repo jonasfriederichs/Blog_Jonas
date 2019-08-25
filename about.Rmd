@@ -17,6 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```{r, fig.cap= "Das bin ich; [Quelle: privat]"}
 knitr::include_graphics("Foto-Collage_Jonas.png")
 ```
+
 # Über mich
 
 Mein Name ist Jonas Friederichs, ich bin im September 2004 geboren und gehe nun, in der 10. Klasse, mit Experiment e.V. für ein halbes Jahr in die USA. Ich möchte dort einerseits gerne mein Englisch verbessern und eine andere Kultur kennenlernen, andererseits habe ich schon oft gehört, dass Teilnehmer aus vorherigen Jahren dort viele Erfahrungen für ihr Leben gesammelt haben.
