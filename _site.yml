@@ -4,6 +4,7 @@ description: |
   Jonas' Blog
 output_dir: "."
 base_url: https://jonasfriederichs.github.io/Blog_Jonas/
+google_analytics: "UA-146841337-1"
 collections:
   posts:
     share: [twitter, facebook]
