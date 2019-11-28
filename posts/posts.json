@@ -1,5 +1,41 @@
 [
   {
+    "path": "posts/2019-11-27-chicago/",
+    "title": "Chicago",
+    "description": "The Windy City...",
+    "author": [
+      {
+        "name": "Wolf Jonas Friederichs",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-19",
+    "categories": [
+      "Während des Austauschjahres/During the exchange year"
+    ],
+    "preview": "posts/2019-11-27-chicago/IMG_0253.png",
+    "last_modified": "2019-11-27T19:57:28-06:00",
+    "preview_width": 4032,
+    "preview_height": 3024
+  },
+  {
+    "path": "posts/2019-11-27-homecoming/",
+    "title": "Homecoming...",
+    "description": "Homecoming",
+    "author": [
+      {
+        "name": "Wolf Jonas Friederichs",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-05",
+    "categories": [
+      "Während des Austauschjahres/During the exchange year"
+    ],
+    "preview": {},
+    "last_modified": "2019-11-27T19:57:03-06:00"
+  },
+  {
     "path": "posts/2019-08-24-erste-tage-schule/",
     "title": "Die ersten Tage in der High School",
     "description": "The first days in the High School",

@@ -1,0 +1,37 @@
+---
+title: "Chicago"
+description: |
+      The Windy City...
+author:
+  - name: Wolf Jonas Friederichs
+    url: {}
+date: 10-19-2019
+categories:
+  - Während des Austauschjahres/During the exchange year
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Am Samstag haben wir uns dann mal auf den Weg nach Chicago gemacht. Chicago, auch als „The Windy City“ bekannt, ist ungefähr zwei Stunden Autofahrt von Milwaukee entfernt. Wir haben uns morgens um neun auf den Weg gemacht, um dann um elf am Navy Pier anzukommen. Navy Pier ist ein langer Steg mit einigen Museen und Stores, einem großen Riesenrad und vor allem einem schönen Ausblick auf die Skyline von Chicago. 
+
+```{r, preview = TRUE}
+knitr::include_graphics("IMG_0253.png")
+```
+
+Später waren wir dann noch auf dem Willis Tower, dem größten Gebäude in Chicago und zweitgrößten Gebäude in den USA. Der Willis Tower hat ein Skydeck auf der 103. Etage, 412 Meter über der Straße, mit einer unglaublichen Aussicht.
+
+```{r, preview = FALSE}
+knitr::include_graphics("IMG_0262.png")
+```
+
+Am Ende waren wir dann noch im Millennium Park, einem etwas berühmteren Park in Chicago.
+
+```{r, preview = FALSE}
+knitr::include_graphics("IMG_0281.png")
+```
+

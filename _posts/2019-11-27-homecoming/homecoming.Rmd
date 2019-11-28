@@ -1,0 +1,22 @@
+---
+title: "Homecoming..."
+description: | 
+      Homecoming
+author:
+  - name: Wolf Jonas Friederichs
+    url: {}
+date: 10-05-2019
+categories:
+  - Während des Austauschjahres/During the exchange year
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Eine Sache, die vielen Ausländern beim Gedanken an amerikanische Highschools vor dem inneren Auge auftaucht, sind die Dances, wie Prom und Homecoming. Wie ich jetzt herausgefunden habe, besteht Homecoming nicht nur aus dem Dance, sondern aus einer ganzen Spirit Week, die letzte Woche stattgefunden hat. Die Spirit Week ähnelt im Grunde der Mottowoche in Deutschland, aber es können sich alle verkleiden und der Unterricht darf nicht gestört werden. Es ging am Montag mit dem Pyjama-Day los, Dienstag war dann Character-Day, and dem jeder sich verkleiden konnte, wie er wollte. College-Day am Mittwoch war dann wieder eher uninteressant, da es nur um College-Pullover ging, die eigentlich ständig getragen werden. Donnerstag war dann Generation-Day. Die Juniors und Seniors haben sich als alte Leute verkleidet, und die Freshmen und Sophomores als Babys. Am Freitag gab es dann die Pep-Rally, eine Art Wettkampf zwischen den Klassenstufen. Einige Schüler haben sich für die verschiedenen Disziplinen angemeldet, wie Tauziehen, Reise nach Jerusalem, und einige andere. Der Rest hat sich dann im Auditorium zusammengefunden und angefeuert. Am Samstag Abend war dann der bekannte Homecoming Dance. Es war ganz nett, die Musik war nur meiner Meinung nach nicht wirklich zum Tanzen geeignet. Insgesamt fand ich den Dance nicht ganz so überzeugend, die Spirit Week allerdings überraschend gut.
+
+
